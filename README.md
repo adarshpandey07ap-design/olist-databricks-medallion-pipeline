@@ -43,14 +43,14 @@ The pipeline implements the **Medallion Architecture** to progressively structur
 ## 📊 Pipeline Orchestration & Architecture
 
 ### 11-Task Workflow DAG (Automated Daily Run)
-![Databricks Workflow DAG](dag_workflow)
+![Databricks Workflow DAG](dag_workflow.png)
 
 ---
 
 ## 📈 Executive Sales BI Dashboard
 
 ### Real-Time Analytics & Key Business Metrics
-![Olist Executive Sales Dashboard](dashboard)
+![Olist Executive Sales Dashboard](dashboard.png)
 ---
 
 ## ⚙️ Key Technical Features
