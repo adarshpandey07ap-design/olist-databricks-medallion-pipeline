@@ -38,7 +38,19 @@ The pipeline implements the **Medallion Architecture** to progressively structur
                              │  • Databricks Lakeview Executive Sales Dashboard       │
                              └────────────────────────────────────────────────────────┘
 
+---
 
+## 📊 Pipeline Orchestration & Architecture
+
+### 11-Task Workflow DAG (Automated Daily Run)
+![Databricks Workflow DAG](dag_workflow)
+
+---
+
+## 📈 Executive Sales BI Dashboard
+
+### Real-Time Analytics & Key Business Metrics
+![Olist Executive Sales Dashboard](dashboard)
 ---
 
 ## ⚙️ Key Technical Features
